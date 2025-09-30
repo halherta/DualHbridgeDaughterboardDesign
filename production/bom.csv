@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Elec_8x10,1,330u,
+C2,1206,1,0.1u,
+"D1, D2, D3, D4, D5, D6, D7, D8",D_SMB,8,B250,
+D9,1206,1,LED,
+"J1, J2, J4",TerminalBlock_Altech_AK300-2_P5.00mm,3,Screw_Terminal_01x02,
+J3,DaughterBoardTemplate,1,DaughterBoard,
+"Q1, Q2, Q5, Q7",TO-252-2,4,AOD4189,
+"Q3, Q4, Q6, Q8",TO-252-2,4,AOD66406,
+R1,1206,1,1.6k,
+"U1, U2, U5, U6",SO-8_3.9x4.9mm_P1.27mm,4,MIC4427,
+U3,SO-14_3.9x8.65mm_P1.27mm,1,74HC08,
